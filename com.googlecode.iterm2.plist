@@ -1516,6 +1516,8 @@
 			<false/>
 			<key>Disable Window Resizing</key>
 			<true/>
+			<key>Draw Powerline Glyphs</key>
+			<false/>
 			<key>Flashing Bell</key>
 			<false/>
 			<key>Foreground Color</key>
@@ -1995,6 +1997,8 @@
 			<real>0.16770987212657928</real>
 			<key>Triggers</key>
 			<array/>
+			<key>Unicode Normalization</key>
+			<integer>0</integer>
 			<key>Unlimited Scrollback</key>
 			<true/>
 			<key>Use Bold Font</key>
@@ -3473,9 +3477,18 @@
 	</array>
 	<key>NoSyncBFPRecents</key>
 	<array>
-		<string>Menlo</string>
 		<string>HackGen Console for Powerline</string>
+		<string>HackGen35</string>
+		<string>HackGen</string>
+		<string>HackGen Console</string>
 	</array>
+	<key>NoSyncFrame_SessionsPreferences</key>
+	<dict>
+		<key>screenFrame</key>
+		<string>{{0, 0}, {1680, 1050}}</string>
+		<key>topLeft</key>
+		<string>{560, 899}</string>
+	</dict>
 	<key>NoSyncFrame_SharedPreferences</key>
 	<dict>
 		<key>screenFrame</key>
@@ -3487,6 +3500,10 @@
 	<string>60016BB9-36A2-4EF6-8271-DF0433B0CD2A</string>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
 	<integer>2</integer>
+	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
+	<true/>
+	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
+	<integer>0</integer>
 	<key>NoSyncNextAnnoyanceTime</key>
 	<real>592990529.58877397</real>
 	<key>NoSyncOnboardingWindowHasBeenShown</key>

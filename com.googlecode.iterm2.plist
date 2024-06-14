@@ -1589,7 +1589,7 @@
 			<key>Horizontal Spacing</key>
 			<real>1</real>
 			<key>Idle Code</key>
-			<integer>20</integer>
+			<integer>0</integer>
 			<key>Initial Text</key>
 			<string></string>
 			<key>Jobs to Ignore</key>
@@ -1940,7 +1940,7 @@
 				<string></string>
 			</dict>
 			<key>Send Code When Idle</key>
-			<true/>
+			<false/>
 			<key>Set Local Environment Vars</key>
 			<true/>
 			<key>Shortcut</key>
@@ -3573,6 +3573,8 @@
 			<string>kNextWindowPointerAction</string>
 		</dict>
 	</dict>
+	<key>Print In Black And White</key>
+	<true/>
 	<key>PromptOnQuit</key>
 	<true/>
 	<key>QuitWhenAllWindowsClosed</key>
